@@ -1,0 +1,13 @@
+E:\Document\Visual Studio 2015\Projects\Học WPF\Bài 3 Làm việc với App.xaml\bin\Debug\Bài 3 Làm việc với App.xaml.exe.config
+E:\Document\Visual Studio 2015\Projects\Học WPF\Bài 3 Làm việc với App.xaml\bin\Debug\Bài 3 Làm việc với App.xaml.exe
+E:\Document\Visual Studio 2015\Projects\Học WPF\Bài 3 Làm việc với App.xaml\bin\Debug\Bài 3 Làm việc với App.xaml.pdb
+E:\Document\Visual Studio 2015\Projects\Học WPF\Bài 3 Làm việc với App.xaml\obj\Debug\MainWindow.g.cs
+E:\Document\Visual Studio 2015\Projects\Học WPF\Bài 3 Làm việc với App.xaml\obj\Debug\App.g.cs
+E:\Document\Visual Studio 2015\Projects\Học WPF\Bài 3 Làm việc với App.xaml\obj\Debug\Bài 3 Làm việc với App.xaml_MarkupCompile.cache
+E:\Document\Visual Studio 2015\Projects\Học WPF\Bài 3 Làm việc với App.xaml\obj\Debug\Bài 3 Làm việc với App.xaml_MarkupCompile.lref
+E:\Document\Visual Studio 2015\Projects\Học WPF\Bài 3 Làm việc với App.xaml\obj\Debug\MainWindow.baml
+E:\Document\Visual Studio 2015\Projects\Học WPF\Bài 3 Làm việc với App.xaml\obj\Debug\Bài 3 Làm việc với App.xaml.g.resources
+E:\Document\Visual Studio 2015\Projects\Học WPF\Bài 3 Làm việc với App.xaml\obj\Debug\Bài_3_Làm_việc_với_App.xaml.Properties.Resources.resources
+E:\Document\Visual Studio 2015\Projects\Học WPF\Bài 3 Làm việc với App.xaml\obj\Debug\Bài 3 Làm việc với App.xaml.csproj.GenerateResource.Cache
+E:\Document\Visual Studio 2015\Projects\Học WPF\Bài 3 Làm việc với App.xaml\obj\Debug\Bài 3 Làm việc với App.xaml.exe
+E:\Document\Visual Studio 2015\Projects\Học WPF\Bài 3 Làm việc với App.xaml\obj\Debug\Bài 3 Làm việc với App.xaml.pdb

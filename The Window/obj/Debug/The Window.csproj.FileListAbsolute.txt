@@ -1,0 +1,14 @@
+E:\Document\Visual Studio 2015\Projects\Học WPF\The Window\bin\Debug\The Window.exe.config
+E:\Document\Visual Studio 2015\Projects\Học WPF\The Window\bin\Debug\The Window.exe
+E:\Document\Visual Studio 2015\Projects\Học WPF\The Window\bin\Debug\The Window.pdb
+E:\Document\Visual Studio 2015\Projects\Học WPF\The Window\obj\Debug\MainWindow.g.cs
+E:\Document\Visual Studio 2015\Projects\Học WPF\The Window\obj\Debug\App.g.cs
+E:\Document\Visual Studio 2015\Projects\Học WPF\The Window\obj\Debug\The Window_MarkupCompile.cache
+E:\Document\Visual Studio 2015\Projects\Học WPF\The Window\obj\Debug\The Window_MarkupCompile.lref
+E:\Document\Visual Studio 2015\Projects\Học WPF\The Window\obj\Debug\MainWindow.baml
+E:\Document\Visual Studio 2015\Projects\Học WPF\The Window\obj\Debug\The Window.g.resources
+E:\Document\Visual Studio 2015\Projects\Học WPF\The Window\obj\Debug\The_Window.Properties.Resources.resources
+E:\Document\Visual Studio 2015\Projects\Học WPF\The Window\obj\Debug\The Window.csproj.GenerateResource.Cache
+E:\Document\Visual Studio 2015\Projects\Học WPF\The Window\obj\Debug\The Window.exe
+E:\Document\Visual Studio 2015\Projects\Học WPF\The Window\obj\Debug\The Window.pdb
+E:\Document\Visual Studio 2015\Projects\Học WPF\The Window\obj\Debug\The Window.csprojResolveAssemblyReference.cache

@@ -1,0 +1,26 @@
+﻿<Window x:Class="The_Window.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:The_Window"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525"
+        xmlns:comment="Sử dụng Icon: Biểu tượng ở trên cửa sổ sẽ thay đổi"
+        Icon="Picture.jpg" 
+        xmlns:comment1="Có show lên thanh taskbar hay không"
+        ShowInTaskbar="False"
+        xmlns:comment2="Setting chuyện mà Resize"
+        ResizeMode="CanResizeWithGrip"
+        xmlns:comment3="Tự động dãn nở form"
+        SizeToContent="Manual"
+        xmlns:comment4="Luôn hiển thị trên đầu"
+        Topmost="True"
+        xmlns:comment5="Chỗ hiển thị bắt đầu"
+        WindowStartupLocation="CenterScreen"
+        xmlns:comment6="Kiểu mở lúc ban đầu (Gồm lớn nhất, nhỏ nhất hoặc mặc định)"
+        WindowState="Normal">
+    <Grid>
+        
+    </Grid>
+</Window>

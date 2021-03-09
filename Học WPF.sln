@@ -11,6 +11,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bài 3 Làm việc với Ap
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bài 4 Tham số Command-line trong WPF", "Bài 4 Tham số Command-line trong WPF\Bài 4 Tham số Command-line trong WPF.csproj", "{3B49DFD4-6C46-4D6D-A086-38698658C0FA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ví dụ 1 Căn bản", "Bài 5 Resource\Ví dụ 1 Căn bản.csproj", "{9BCB0EF6-2176-47F8-9E55-FEB2752E28CC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Bài 5 Resource", "Bài 5 Resource", "{4AF8E3A7-99ED-4203-8CA1-F0B51EBF02E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ví dụ 2 Gọi đa hệ", "Ví dụ 2\Ví dụ 2 Gọi đa hệ.csproj", "{EBFD4E3B-3541-44A0-A9FC-BA8A2E3AD7AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ví dụ 3 Sử dụng ở bên ngoài", "Ví dụ 3\Ví dụ 3 Sử dụng ở bên ngoài.csproj", "{0323BFD6-5968-47D7-AE11-A27E4B4D4734}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bài 4 Từ code-behind", "Bài 4 Từ code-behind\Bài 4 Từ code-behind.csproj", "{36BA5288-E6A3-46FD-8082-DE19D41561FC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,8 +43,30 @@ Global
 		{3B49DFD4-6C46-4D6D-A086-38698658C0FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B49DFD4-6C46-4D6D-A086-38698658C0FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B49DFD4-6C46-4D6D-A086-38698658C0FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BCB0EF6-2176-47F8-9E55-FEB2752E28CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BCB0EF6-2176-47F8-9E55-FEB2752E28CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BCB0EF6-2176-47F8-9E55-FEB2752E28CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BCB0EF6-2176-47F8-9E55-FEB2752E28CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBFD4E3B-3541-44A0-A9FC-BA8A2E3AD7AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBFD4E3B-3541-44A0-A9FC-BA8A2E3AD7AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBFD4E3B-3541-44A0-A9FC-BA8A2E3AD7AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBFD4E3B-3541-44A0-A9FC-BA8A2E3AD7AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0323BFD6-5968-47D7-AE11-A27E4B4D4734}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0323BFD6-5968-47D7-AE11-A27E4B4D4734}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0323BFD6-5968-47D7-AE11-A27E4B4D4734}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0323BFD6-5968-47D7-AE11-A27E4B4D4734}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36BA5288-E6A3-46FD-8082-DE19D41561FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36BA5288-E6A3-46FD-8082-DE19D41561FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36BA5288-E6A3-46FD-8082-DE19D41561FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36BA5288-E6A3-46FD-8082-DE19D41561FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9BCB0EF6-2176-47F8-9E55-FEB2752E28CC} = {4AF8E3A7-99ED-4203-8CA1-F0B51EBF02E4}
+		{EBFD4E3B-3541-44A0-A9FC-BA8A2E3AD7AE} = {4AF8E3A7-99ED-4203-8CA1-F0B51EBF02E4}
+		{0323BFD6-5968-47D7-AE11-A27E4B4D4734} = {4AF8E3A7-99ED-4203-8CA1-F0B51EBF02E4}
+		{36BA5288-E6A3-46FD-8082-DE19D41561FC} = {4AF8E3A7-99ED-4203-8CA1-F0B51EBF02E4}
 	EndGlobalSection
 EndGlobal

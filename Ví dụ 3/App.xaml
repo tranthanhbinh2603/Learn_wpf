@@ -1,0 +1,9 @@
+﻿<Application x:Class="WpfTutorialSamples.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:sys="clr-namespace:System;assembly=mscorlib"
+             StartupUri="WPF application/ExtendedResourceSample.xaml">
+    <Application.Resources>
+        <sys:String x:Key="NhacnhoTitle">Cái này được gọi trong file App.xaml</sys:String>
+    </Application.Resources>
+</Application>

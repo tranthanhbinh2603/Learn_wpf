@@ -1,0 +1,12 @@
+E:\Document\Visual Studio 2015\Projects\Học WPF\Ví dụ 2\bin\Debug\Ví dụ 2.exe.config
+E:\Document\Visual Studio 2015\Projects\Học WPF\Ví dụ 2\obj\Debug\App.g.cs
+E:\Document\Visual Studio 2015\Projects\Học WPF\Ví dụ 2\obj\Debug\Ví dụ 2_MarkupCompile.cache
+E:\Document\Visual Studio 2015\Projects\Học WPF\Ví dụ 2\bin\Debug\Ví dụ 2.exe
+E:\Document\Visual Studio 2015\Projects\Học WPF\Ví dụ 2\bin\Debug\Ví dụ 2.pdb
+E:\Document\Visual Studio 2015\Projects\Học WPF\Ví dụ 2\obj\Debug\MainWindow.baml
+E:\Document\Visual Studio 2015\Projects\Học WPF\Ví dụ 2\obj\Debug\MainWindow.g.cs
+E:\Document\Visual Studio 2015\Projects\Học WPF\Ví dụ 2\obj\Debug\Ví dụ 2.g.resources
+E:\Document\Visual Studio 2015\Projects\Học WPF\Ví dụ 2\obj\Debug\Ví_dụ_2.Properties.Resources.resources
+E:\Document\Visual Studio 2015\Projects\Học WPF\Ví dụ 2\obj\Debug\Ví dụ 2.csproj.GenerateResource.Cache
+E:\Document\Visual Studio 2015\Projects\Học WPF\Ví dụ 2\obj\Debug\Ví dụ 2.exe
+E:\Document\Visual Studio 2015\Projects\Học WPF\Ví dụ 2\obj\Debug\Ví dụ 2.pdb

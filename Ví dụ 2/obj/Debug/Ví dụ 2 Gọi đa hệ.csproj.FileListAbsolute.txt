@@ -1,0 +1,3 @@
+E:\Document\Visual Studio 2015\Projects\Học WPF\Ví dụ 2\bin\Debug\Ví dụ 2.exe.config
+E:\Document\Visual Studio 2015\Projects\Học WPF\Ví dụ 2\obj\Debug\Ví dụ 2.exe
+E:\Document\Visual Studio 2015\Projects\Học WPF\Ví dụ 2\obj\Debug\Ví dụ 2.pdb

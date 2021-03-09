@@ -1,0 +1,26 @@
+﻿<Window x:Class="Ví_dụ_2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:sys="clr-namespace:System;assembly=mscorlib"
+        Title="MainWindow" Height="350" Width="525"
+        Background="{DynamicResource WindowBackgroundBrush}">
+    <Window.Resources>
+        <sys:String x:Key="ComboBoxTitle">Items:</sys:String>
+
+        <x:Array x:Key="ComboBoxItems" Type="sys:String">
+            <sys:String>Item #1</sys:String>
+            <sys:String>Item #2</sys:String>
+            <sys:String>Item #3</sys:String>
+        </x:Array>
+
+        <LinearGradientBrush x:Key="WindowBackgroundBrush">
+            <GradientStop Offset="0" Color="Silver"/>
+            <GradientStop Offset="1" Color="Gray"/>
+        </LinearGradientBrush>
+    </Window.Resources>
+
+    <StackPanel>
+        <Label Content="{StaticResource ResourceKey=ComboBoxTitle}"></Label>
+        <ComboBox ItemsSource="{StaticResource ResourceKey=ComboBoxItems}"></ComboBox>
+    </StackPanel>
+</Window>

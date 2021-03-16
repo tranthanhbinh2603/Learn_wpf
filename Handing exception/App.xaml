@@ -1,0 +1,9 @@
+﻿<Application x:Class="WpfTutorialSamples.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:comment1="Chú ý: Đây là câu lệnh chuyên dùng cho bắt lỗi tự động. Bạn nhập tên hàm bắt lỗi trong file App.xaml.cs vào đây"
+             DispatcherUnhandledException="Application_DispatcherUnhandledException"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+    </Application.Resources>
+</Application>

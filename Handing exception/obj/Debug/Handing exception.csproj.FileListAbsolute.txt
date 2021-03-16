@@ -1,0 +1,13 @@
+E:\Document\Visual Studio 2015\Projects\Học WPF\Handing exception\bin\Debug\Handing exception.exe.config
+E:\Document\Visual Studio 2015\Projects\Học WPF\Handing exception\bin\Debug\Handing exception.exe
+E:\Document\Visual Studio 2015\Projects\Học WPF\Handing exception\bin\Debug\Handing exception.pdb
+E:\Document\Visual Studio 2015\Projects\Học WPF\Handing exception\obj\Debug\Handing exception.csprojResolveAssemblyReference.cache
+E:\Document\Visual Studio 2015\Projects\Học WPF\Handing exception\obj\Debug\MainWindow.baml
+E:\Document\Visual Studio 2015\Projects\Học WPF\Handing exception\obj\Debug\MainWindow.g.cs
+E:\Document\Visual Studio 2015\Projects\Học WPF\Handing exception\obj\Debug\App.g.cs
+E:\Document\Visual Studio 2015\Projects\Học WPF\Handing exception\obj\Debug\Handing exception_MarkupCompile.cache
+E:\Document\Visual Studio 2015\Projects\Học WPF\Handing exception\obj\Debug\Handing exception.g.resources
+E:\Document\Visual Studio 2015\Projects\Học WPF\Handing exception\obj\Debug\Handing_exception.Properties.Resources.resources
+E:\Document\Visual Studio 2015\Projects\Học WPF\Handing exception\obj\Debug\Handing exception.csproj.GenerateResource.Cache
+E:\Document\Visual Studio 2015\Projects\Học WPF\Handing exception\obj\Debug\Handing exception.exe
+E:\Document\Visual Studio 2015\Projects\Học WPF\Handing exception\obj\Debug\Handing exception.pdb

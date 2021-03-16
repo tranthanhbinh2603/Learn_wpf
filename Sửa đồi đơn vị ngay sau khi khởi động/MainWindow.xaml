@@ -1,0 +1,23 @@
+﻿<Window x:Class="Sửa_đồi_đơn_vị_ngay_sau_khi_khởi_động.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Sửa_đồi_đơn_vị_ngay_sau_khi_khởi_động"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="200">
+    <StackPanel>
+        <Label x:Name="lblNumberUs1">
+            <Bold>Hiển thị số theo kiểu Us</Bold>
+        </Label>
+        <Label x:Name="lblNumberUs"></Label>
+        <Label x:Name="lblNumberDe1">
+            <Bold>Hiển thị số theo kiểu DE</Bold>
+        </Label>
+        <Label x:Name="lblNumberDe"></Label>
+        <Label x:Name="lblNumberSe1">
+            <Bold>Hiển thị số theo kiểu SE</Bold>
+        </Label>
+        <Label x:Name="lblNumberSe"></Label>
+    </StackPanel>
+</Window>

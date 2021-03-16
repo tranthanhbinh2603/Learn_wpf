@@ -1,0 +1,13 @@
+E:\Document\Visual Studio 2015\Projects\Học WPF\Xử lí với chuỗi dài + Tô màu chữ\bin\Debug\Xử lí với chuỗi dài + Tô màu chữ.exe.config
+E:\Document\Visual Studio 2015\Projects\Học WPF\Xử lí với chuỗi dài + Tô màu chữ\bin\Debug\Xử lí với chuỗi dài + Tô màu chữ.exe
+E:\Document\Visual Studio 2015\Projects\Học WPF\Xử lí với chuỗi dài + Tô màu chữ\bin\Debug\Xử lí với chuỗi dài + Tô màu chữ.pdb
+E:\Document\Visual Studio 2015\Projects\Học WPF\Xử lí với chuỗi dài + Tô màu chữ\obj\Debug\MainWindow.g.cs
+E:\Document\Visual Studio 2015\Projects\Học WPF\Xử lí với chuỗi dài + Tô màu chữ\obj\Debug\App.g.cs
+E:\Document\Visual Studio 2015\Projects\Học WPF\Xử lí với chuỗi dài + Tô màu chữ\obj\Debug\Xử lí với chuỗi dài + Tô màu chữ_MarkupCompile.cache
+E:\Document\Visual Studio 2015\Projects\Học WPF\Xử lí với chuỗi dài + Tô màu chữ\obj\Debug\Xử lí với chuỗi dài + Tô màu chữ_MarkupCompile.lref
+E:\Document\Visual Studio 2015\Projects\Học WPF\Xử lí với chuỗi dài + Tô màu chữ\obj\Debug\MainWindow.baml
+E:\Document\Visual Studio 2015\Projects\Học WPF\Xử lí với chuỗi dài + Tô màu chữ\obj\Debug\Xử lí với chuỗi dài + Tô màu chữ.g.resources
+E:\Document\Visual Studio 2015\Projects\Học WPF\Xử lí với chuỗi dài + Tô màu chữ\obj\Debug\Xử_lí_với_chuỗi_dài___Tô_màu_chữ.Properties.Resources.resources
+E:\Document\Visual Studio 2015\Projects\Học WPF\Xử lí với chuỗi dài + Tô màu chữ\obj\Debug\2. Xử lí với chuỗi dài + Tô màu chữ.csproj.GenerateResource.Cache
+E:\Document\Visual Studio 2015\Projects\Học WPF\Xử lí với chuỗi dài + Tô màu chữ\obj\Debug\Xử lí với chuỗi dài + Tô màu chữ.exe
+E:\Document\Visual Studio 2015\Projects\Học WPF\Xử lí với chuỗi dài + Tô màu chữ\obj\Debug\Xử lí với chuỗi dài + Tô màu chữ.pdb

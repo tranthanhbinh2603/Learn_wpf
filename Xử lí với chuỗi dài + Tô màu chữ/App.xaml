@@ -1,0 +1,9 @@
+﻿<Application x:Class="Xử_lí_với_chuỗi_dài___Tô_màu_chữ.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Xử_lí_với_chuỗi_dài___Tô_màu_chữ"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

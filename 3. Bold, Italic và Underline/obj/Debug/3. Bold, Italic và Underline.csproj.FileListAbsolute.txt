@@ -1,0 +1,13 @@
+E:\Document\Visual Studio 2015\Projects\Học WPF\3. Bold, Italic và Underline\bin\Debug\_3.Bold__Italic_và_Underline.exe.config
+E:\Document\Visual Studio 2015\Projects\Học WPF\3. Bold, Italic và Underline\obj\Debug\MainWindow.g.cs
+E:\Document\Visual Studio 2015\Projects\Học WPF\3. Bold, Italic và Underline\obj\Debug\App.g.cs
+E:\Document\Visual Studio 2015\Projects\Học WPF\3. Bold, Italic và Underline\obj\Debug\_3.Bold__Italic_và_Underline_MarkupCompile.cache
+E:\Document\Visual Studio 2015\Projects\Học WPF\3. Bold, Italic và Underline\obj\Debug\_3.Bold__Italic_và_Underline_MarkupCompile.lref
+E:\Document\Visual Studio 2015\Projects\Học WPF\3. Bold, Italic và Underline\bin\Debug\_3.Bold__Italic_và_Underline.exe
+E:\Document\Visual Studio 2015\Projects\Học WPF\3. Bold, Italic và Underline\bin\Debug\_3.Bold__Italic_và_Underline.pdb
+E:\Document\Visual Studio 2015\Projects\Học WPF\3. Bold, Italic và Underline\obj\Debug\MainWindow.baml
+E:\Document\Visual Studio 2015\Projects\Học WPF\3. Bold, Italic và Underline\obj\Debug\_3.Bold__Italic_và_Underline.g.resources
+E:\Document\Visual Studio 2015\Projects\Học WPF\3. Bold, Italic và Underline\obj\Debug\_3.Bold__Italic_và_Underline.Properties.Resources.resources
+E:\Document\Visual Studio 2015\Projects\Học WPF\3. Bold, Italic và Underline\obj\Debug\3. Bold, Italic và Underline.csproj.GenerateResource.Cache
+E:\Document\Visual Studio 2015\Projects\Học WPF\3. Bold, Italic và Underline\obj\Debug\_3.Bold__Italic_và_Underline.exe
+E:\Document\Visual Studio 2015\Projects\Học WPF\3. Bold, Italic và Underline\obj\Debug\_3.Bold__Italic_và_Underline.pdb

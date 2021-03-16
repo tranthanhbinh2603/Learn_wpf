@@ -1,0 +1,13 @@
+E:\Document\Visual Studio 2015\Projects\Học WPF\Đơn giản nhất về TextBox\bin\Debug\Đơn giản nhất về TextBox.exe.config
+E:\Document\Visual Studio 2015\Projects\Học WPF\Đơn giản nhất về TextBox\bin\Debug\Đơn giản nhất về TextBox.exe
+E:\Document\Visual Studio 2015\Projects\Học WPF\Đơn giản nhất về TextBox\bin\Debug\Đơn giản nhất về TextBox.pdb
+E:\Document\Visual Studio 2015\Projects\Học WPF\Đơn giản nhất về TextBox\obj\Debug\MainWindow.g.cs
+E:\Document\Visual Studio 2015\Projects\Học WPF\Đơn giản nhất về TextBox\obj\Debug\App.g.cs
+E:\Document\Visual Studio 2015\Projects\Học WPF\Đơn giản nhất về TextBox\obj\Debug\Đơn giản nhất về TextBox_MarkupCompile.cache
+E:\Document\Visual Studio 2015\Projects\Học WPF\Đơn giản nhất về TextBox\obj\Debug\Đơn giản nhất về TextBox_MarkupCompile.lref
+E:\Document\Visual Studio 2015\Projects\Học WPF\Đơn giản nhất về TextBox\obj\Debug\MainWindow.baml
+E:\Document\Visual Studio 2015\Projects\Học WPF\Đơn giản nhất về TextBox\obj\Debug\Đơn giản nhất về TextBox.g.resources
+E:\Document\Visual Studio 2015\Projects\Học WPF\Đơn giản nhất về TextBox\obj\Debug\Đơn_giản_nhất_về_TextBox.Properties.Resources.resources
+E:\Document\Visual Studio 2015\Projects\Học WPF\Đơn giản nhất về TextBox\obj\Debug\Đơn giản nhất về TextBox.csproj.GenerateResource.Cache
+E:\Document\Visual Studio 2015\Projects\Học WPF\Đơn giản nhất về TextBox\obj\Debug\Đơn giản nhất về TextBox.exe
+E:\Document\Visual Studio 2015\Projects\Học WPF\Đơn giản nhất về TextBox\obj\Debug\Đơn giản nhất về TextBox.pdb

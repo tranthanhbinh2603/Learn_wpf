@@ -1,0 +1,20 @@
+﻿<Window x:Class="WpfTutorialSamples.Basic_controls.TextBlockSpanSample"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="TextBlockSpanSample" Height="100" Width="300">
+    <Grid>
+        <TextBlock Margin="10" TextWrapping="Wrap">
+			Đây <Run FontWeight="Bold">là</Run> một
+			<Span Background="Silver" Foreground="Maroon">TextBlock</Span>
+			với <Run TextDecorations="Underline">một số</Run>
+			<Run FontStyle="Italic">tab Span</Run>,
+            <!--Chổ này không dùng: <Run Foreground="Blue">
+				using a <Bold>variety</Bold> of <Italic>styles</Italic>
+			</Run>.
+            Vì run cho phép chỉ được 1 định dạng tham gia vào-->
+			<Span Foreground="Blue">
+				sử dụng nhiều <Bold>sự đa đang</Bold> của <Italic>kiểu chữ</Italic>
+			</Span>.
+        </TextBlock>
+    </Grid>
+</Window>

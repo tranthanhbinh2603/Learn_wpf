@@ -1,0 +1,9 @@
+﻿<Application x:Class="_2.Cho_phép_sử_dụng_phím_Alt_để_truy_cập_vào_Control_liên_quan.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:_2.Cho_phép_sử_dụng_phím_Alt_để_truy_cập_vào_Control_liên_quan"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

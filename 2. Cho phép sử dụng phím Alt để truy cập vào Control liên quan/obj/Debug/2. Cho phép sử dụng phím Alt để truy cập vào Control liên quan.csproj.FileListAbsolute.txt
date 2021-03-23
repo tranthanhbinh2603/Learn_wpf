@@ -1,0 +1,13 @@
+E:\Document\Visual Studio 2015\Projects\Học WPF\2. Cho phép sử dụng phím Alt để truy cập vào Control liên quan\bin\Debug\_2.Cho_phép_sử_dụng_phím_Alt_để_truy_cập_vào_Control_liên_quan.exe.config
+E:\Document\Visual Studio 2015\Projects\Học WPF\2. Cho phép sử dụng phím Alt để truy cập vào Control liên quan\bin\Debug\_2.Cho_phép_sử_dụng_phím_Alt_để_truy_cập_vào_Control_liên_quan.exe
+E:\Document\Visual Studio 2015\Projects\Học WPF\2. Cho phép sử dụng phím Alt để truy cập vào Control liên quan\bin\Debug\_2.Cho_phép_sử_dụng_phím_Alt_để_truy_cập_vào_Control_liên_quan.pdb
+E:\Document\Visual Studio 2015\Projects\Học WPF\2. Cho phép sử dụng phím Alt để truy cập vào Control liên quan\obj\Debug\MainWindow.g.cs
+E:\Document\Visual Studio 2015\Projects\Học WPF\2. Cho phép sử dụng phím Alt để truy cập vào Control liên quan\obj\Debug\App.g.cs
+E:\Document\Visual Studio 2015\Projects\Học WPF\2. Cho phép sử dụng phím Alt để truy cập vào Control liên quan\obj\Debug\_2.Cho_phép_sử_dụng_phím_Alt_để_truy_cập_vào_Control_liên_quan_MarkupCompile.cache
+E:\Document\Visual Studio 2015\Projects\Học WPF\2. Cho phép sử dụng phím Alt để truy cập vào Control liên quan\obj\Debug\_2.Cho_phép_sử_dụng_phím_Alt_để_truy_cập_vào_Control_liên_quan_MarkupCompile.lref
+E:\Document\Visual Studio 2015\Projects\Học WPF\2. Cho phép sử dụng phím Alt để truy cập vào Control liên quan\obj\Debug\MainWindow.baml
+E:\Document\Visual Studio 2015\Projects\Học WPF\2. Cho phép sử dụng phím Alt để truy cập vào Control liên quan\obj\Debug\_2.Cho_phép_sử_dụng_phím_Alt_để_truy_cập_vào_Control_liên_quan.g.resources
+E:\Document\Visual Studio 2015\Projects\Học WPF\2. Cho phép sử dụng phím Alt để truy cập vào Control liên quan\obj\Debug\_2.Cho_phép_sử_dụng_phím_Alt_để_truy_cập_vào_Control_liên_quan.Properties.Resources.resources
+E:\Document\Visual Studio 2015\Projects\Học WPF\2. Cho phép sử dụng phím Alt để truy cập vào Control liên quan\obj\Debug\2. Cho phép sử dụng phím Alt để truy cập vào Control liên quan.csproj.GenerateResource.Cache
+E:\Document\Visual Studio 2015\Projects\Học WPF\2. Cho phép sử dụng phím Alt để truy cập vào Control liên quan\obj\Debug\_2.Cho_phép_sử_dụng_phím_Alt_để_truy_cập_vào_Control_liên_quan.exe
+E:\Document\Visual Studio 2015\Projects\Học WPF\2. Cho phép sử dụng phím Alt để truy cập vào Control liên quan\obj\Debug\_2.Cho_phép_sử_dụng_phím_Alt_để_truy_cập_vào_Control_liên_quan.pdb

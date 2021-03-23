@@ -11,3 +11,4 @@ E:\Document\Visual Studio 2015\Projects\Học WPF\4. Hyperlink\obj\Debug\_4.Hype
 E:\Document\Visual Studio 2015\Projects\Học WPF\4. Hyperlink\obj\Debug\4. Hyperlink.csproj.GenerateResource.Cache
 E:\Document\Visual Studio 2015\Projects\Học WPF\4. Hyperlink\obj\Debug\_4.Hyperlink.exe
 E:\Document\Visual Studio 2015\Projects\Học WPF\4. Hyperlink\obj\Debug\_4.Hyperlink.pdb
+E:\Document\Visual Studio 2015\Projects\Học WPF\4. Hyperlink\obj\Debug\4. Hyperlink.csprojResolveAssemblyReference.cache

@@ -1,0 +1,13 @@
+E:\Document\Visual Studio 2015\Projects\Học WPF\3. Làm việc với vùng chọn\bin\Debug\_3.Làm_việc_với_vùng_chọn.exe.config
+E:\Document\Visual Studio 2015\Projects\Học WPF\3. Làm việc với vùng chọn\obj\Debug\MainWindow.g.cs
+E:\Document\Visual Studio 2015\Projects\Học WPF\3. Làm việc với vùng chọn\obj\Debug\App.g.cs
+E:\Document\Visual Studio 2015\Projects\Học WPF\3. Làm việc với vùng chọn\obj\Debug\_3.Làm_việc_với_vùng_chọn_MarkupCompile.cache
+E:\Document\Visual Studio 2015\Projects\Học WPF\3. Làm việc với vùng chọn\obj\Debug\_3.Làm_việc_với_vùng_chọn_MarkupCompile.lref
+E:\Document\Visual Studio 2015\Projects\Học WPF\3. Làm việc với vùng chọn\bin\Debug\_3.Làm_việc_với_vùng_chọn.exe
+E:\Document\Visual Studio 2015\Projects\Học WPF\3. Làm việc với vùng chọn\bin\Debug\_3.Làm_việc_với_vùng_chọn.pdb
+E:\Document\Visual Studio 2015\Projects\Học WPF\3. Làm việc với vùng chọn\obj\Debug\MainWindow.baml
+E:\Document\Visual Studio 2015\Projects\Học WPF\3. Làm việc với vùng chọn\obj\Debug\_3.Làm_việc_với_vùng_chọn.g.resources
+E:\Document\Visual Studio 2015\Projects\Học WPF\3. Làm việc với vùng chọn\obj\Debug\_3.Làm_việc_với_vùng_chọn.Properties.Resources.resources
+E:\Document\Visual Studio 2015\Projects\Học WPF\3. Làm việc với vùng chọn\obj\Debug\3. Làm việc với vùng chọn.csproj.GenerateResource.Cache
+E:\Document\Visual Studio 2015\Projects\Học WPF\3. Làm việc với vùng chọn\obj\Debug\_3.Làm_việc_với_vùng_chọn.exe
+E:\Document\Visual Studio 2015\Projects\Học WPF\3. Làm việc với vùng chọn\obj\Debug\_3.Làm_việc_với_vùng_chọn.pdb

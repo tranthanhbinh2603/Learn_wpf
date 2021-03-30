@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{9182B863-C37D-4058-95A2-31361D691E88}</ProjectGuid>
+    <ProjectGuid>{7317CFFD-44E9-4686-8874-937AC5478AE4}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_1.Căn_bản</RootNamespace>
-    <AssemblyName>_1.Căn_bản</AssemblyName>
+    <RootNamespace>_4.Thay_đổi_vùng_chọn</RootNamespace>
+    <AssemblyName>_4.Thay_đổi_vùng_chọn</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>

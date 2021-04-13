@@ -71,6 +71,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Làm việc với vùng 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Thay đổi vùng chọn (chưa hoàn thiện)", "4. Thay đổi vùng chọn\4. Thay đổi vùng chọn (chưa hoàn thiện).csproj", "{7317CFFD-44E9-4686-8874-937AC5478AE4}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Bài 11 Button", "Bài 11 Button", "{B44754E2-A630-430D-A9A2-E66B693DCDFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Cơ bản về Button", "1. Cơ bản về Button\1. Cơ bản về Button.csproj", "{364ECDBB-BE16-4C62-B6D8-E3C65D5230FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Định dạng nội dung", "2. Định dạng nội dung\2. Định dạng nội dung.csproj", "{395891C6-AA93-46FD-A922-779B8129E53C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -173,6 +179,14 @@ Global
 		{7317CFFD-44E9-4686-8874-937AC5478AE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7317CFFD-44E9-4686-8874-937AC5478AE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7317CFFD-44E9-4686-8874-937AC5478AE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{364ECDBB-BE16-4C62-B6D8-E3C65D5230FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{364ECDBB-BE16-4C62-B6D8-E3C65D5230FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{364ECDBB-BE16-4C62-B6D8-E3C65D5230FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{364ECDBB-BE16-4C62-B6D8-E3C65D5230FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{395891C6-AA93-46FD-A922-779B8129E53C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{395891C6-AA93-46FD-A922-779B8129E53C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{395891C6-AA93-46FD-A922-779B8129E53C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{395891C6-AA93-46FD-A922-779B8129E53C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -202,5 +216,7 @@ Global
 		{5FD3AB6A-10A0-4E8B-A034-CFE13953132F} = {FCD326B6-8E53-4267-9467-FFE163C29B8B}
 		{17CB4370-9F0A-45F5-B696-492C01DEBFCF} = {FCD326B6-8E53-4267-9467-FFE163C29B8B}
 		{7317CFFD-44E9-4686-8874-937AC5478AE4} = {FCD326B6-8E53-4267-9467-FFE163C29B8B}
+		{364ECDBB-BE16-4C62-B6D8-E3C65D5230FF} = {B44754E2-A630-430D-A9A2-E66B693DCDFA}
+		{395891C6-AA93-46FD-A922-779B8129E53C} = {B44754E2-A630-430D-A9A2-E66B693DCDFA}
 	EndGlobalSection
 EndGlobal

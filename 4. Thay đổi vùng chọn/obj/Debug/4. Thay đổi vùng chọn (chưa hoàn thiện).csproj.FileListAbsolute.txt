@@ -11,3 +11,4 @@ E:\Document\Visual Studio 2015\Projects\Học WPF\4. Thay đổi vùng chọn\ob
 E:\Document\Visual Studio 2015\Projects\Học WPF\4. Thay đổi vùng chọn\obj\Debug\4. Thay đổi vùng chọn (chưa hoàn thiện).csproj.GenerateResource.Cache
 E:\Document\Visual Studio 2015\Projects\Học WPF\4. Thay đổi vùng chọn\obj\Debug\_4.Thay_đổi_vùng_chọn.exe
 E:\Document\Visual Studio 2015\Projects\Học WPF\4. Thay đổi vùng chọn\obj\Debug\_4.Thay_đổi_vùng_chọn.pdb
+E:\Document\Visual Studio 2015\Projects\Học WPF\4. Thay đổi vùng chọn\obj\Debug\4. Thay đổi vùng chọn (chưa hoàn thiện).csprojResolveAssemblyReference.cache

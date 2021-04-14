@@ -1,0 +1,18 @@
+﻿<Window x:Class="_5.Padding_Button.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_5.Padding_Button"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Window.Resources>
+        <Style TargetType="{x:Type Button}">
+            <Setter Property="Padding" Value="10"/>
+        </Style>
+    </Window.Resources>
+    <StackPanel>
+        <Button>Hello, World!</Button> <!--Button chịu ảnh hưởng của setting ở trên-->
+        <Button Padding="100">Hello, worid!</Button> <!--Button không bị ảnh hưởng của setting ở trên-->
+    </StackPanel>
+</Window>

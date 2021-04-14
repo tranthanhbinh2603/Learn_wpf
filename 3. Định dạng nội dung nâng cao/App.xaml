@@ -1,0 +1,9 @@
+﻿<Application x:Class="_3.Định_dạng_nội_dung_nâng_cao.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:_3.Định_dạng_nội_dung_nâng_cao"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
